@@ -1,0 +1,3 @@
+[submodule "firstApp"]
+	path = firstApp
+	url = git@github.com:redhat-developer-demos/openshift-gitops-examples.git
